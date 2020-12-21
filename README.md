@@ -1,2 +1,8 @@
 # Chess_NET
-The game of chess as a console application written in C#
+
+An implementation of the game of chess.
+A C#/.NET console application.
+
+Author: Ryan Strotman
+Created: May 2018
+
